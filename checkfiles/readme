@@ -1,0 +1,7 @@
+用于对比文件系统权限，并修正
+
+用法：要修改的文件系统  标准文件系统
+$ sudo ./check_files.sh  ~/../CMP/my-ubt18   ~/../CMP/standard-ubuntu18
+
+
+
